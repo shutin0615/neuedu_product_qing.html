@@ -1,0 +1,190 @@
+
+*{margin: 0px;
+ padding: 0px;}
+
+#a{width:100%;
+   height: 150px;
+   background-color: #FFFFFF  ;}
+#a1{width: 1190px;
+    height: 150px;
+     background-image: url(../img/tubiao.jpg);
+     position: absolute;
+     left: -300px;}
+     #a2{width: 250px;
+       height: 115px;
+       background-color: #FFFF99 ;
+       position: absolute;
+       right: 0px;
+       top: 25px;
+       }
+    #a21{width: 250px;
+      height: 145px;
+      background-image:url(../img/dongtai.gif);
+      position: absolute;
+      top: -15px; 
+      }   
+    #a11{width: 750px;
+     height: 30px;
+     background-color: #FFCCCC ;
+     position: absolute;
+     bottom: 0px;
+     left: 530px;
+     }  
+   #a111{display: block;
+   list-style: none;}
+   
+    #li1{width: 68px;
+     height: 30px;
+     background-color: #FFCC66 ;
+     position: absolute;
+     left: 20px;}
+     
+    a{text-decoration: none;}
+    
+    #li11{position: absolute;
+        top: 10px;
+        left: 20px;
+       }
+    #li2{width: 96px;
+     height: 30px;
+     background-color: #FFCC66 ;
+     position: absolute;
+     top: 0px;
+     left:150px;} 
+     #li21{position: absolute;
+      bottom: 0px;
+      left: 18px;    
+     }
+     #li3{width: 96px;
+     height: 30px;
+     background-color: #FFCC66 ;
+     position: absolute;
+     top: 0px;
+     left:310px;} 
+     
+     #li31{position: absolute;
+      bottom: 0px;
+      left: 18px;    
+     }
+     #li4{width: 96px;
+     height: 30px;
+     background-color: #FFCC66 ;
+     position: absolute;
+     top: 0px;
+     left:460px;} 
+     
+     #li41{position: absolute;
+      bottom: 0px;
+      left: 18px;    
+     }
+     
+      #li5{width: 96px;
+     height: 30px;
+     background-color: #FFCC66 ;
+     position: absolute;
+     top: 0px;
+     left:600px;} 
+     
+     #li51{position: absolute;
+      bottom: 0px;
+      left: 18px;    
+     } 
+       
+    a:link{color: black;
+    }
+    a:visited{color: black;}
+    a:hover{color: #3333CC ;
+            }
+    
+    #a3{width: 150px;
+     height: 20px;
+      background-color: #33FF66 ;
+      position: absolute;
+      top: 130px;
+      left: 950px;
+      }  
+    #anniu{width: 150px;
+    height: 20px;
+    background-image: url(../img/ssuo.jpg);
+    }  
+    #a31{width: 125px;
+      height: 15px;
+      position: absolute;
+      top: 0px;
+      }
+      
+    #a4{width: 100px;
+      height: 100px;
+      background-color: #99FF99  ;
+      position: absolute;
+      top: 10px;
+      left: 1000px;} 
+     #a41{width: 100px;
+     height: 22px;
+     background-color: #99FF33 ;
+     position: absolute;
+     top: 20px;} 
+     #a411{display: block;
+       text-align: center;
+       color: red;}
+     #a411:hover{color: #0033CC ;} 
+      
+      #a42{width: 100px;
+     height: 22px;
+     background-color: #99FF33 ;
+     position: absolute;
+     top: 60px;} 
+     #a421{display: block;
+       text-align: center;
+       color: red;}
+     #a421:hover{color: #0033CC ;}  
+     
+    #nrong{width: 100%;
+     height:5000px;
+     background-color: #FFFFCC ;} 
+     
+    #b{width: 100%;
+	   height: 740px;
+		background-color: #FFFF99 ;	  }
+	#b1{width: 100%;
+	 height: 640px;
+	  background:  #FFFF99;
+	  background-image: url(../img/gundong.jpg);
+	  position: absolute;
+	  top: 150px;
+	  }
+	  
+	#c{width: 1920px;
+	  height: 2648px;
+	  background-color: #CCFFCC ;
+	  position: absolute;}  
+	 
+	#c1{width: 1920px;
+	 height: 2648px;
+	 background-image: url(../img/qwe.jpg);
+	 position: absolute;
+	 left: -200px;}		   
+	
+	#e{
+		width: 1920px;
+	 height: 750px;
+	  background-color: #66FF33;
+	   position: absolute;
+	   top:3380px ;
+	  }            
+    #e1{width: 100%;
+	 height: 750px;
+	 background-image: url(../img/ddfdfd.jpg);}
+	 
+	 #f{width: 1920px;
+	  height: 800px;
+	  background-color: #6666FF ;
+	  position: absolute;
+	  top: 4130px;}
+    #f{width: 1920px;
+	  height: 800px;
+	  background-image: url(../img/weibu.jpg);
+
+
+
+
